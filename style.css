@@ -1,0 +1,18 @@
+div {
+    border: 12px solid rgb(66, 103, 224);
+    padding: 20px;
+    font-family: 'Antonio', sans-serif;
+    font-size: 30px;
+    background-color: rgb(21, 52, 190);
+    border-radius: 33px;
+}
+  
+button {
+    font-size: 40px;
+    margin-top: 20px;
+    font-family: 'Antonio', sans-serif;
+}
+
+h1 {
+    font-family: 'Antonio', sans-serif;
+}
